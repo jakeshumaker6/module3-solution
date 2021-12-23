@@ -1,0 +1,52 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: Navy;
+}
+/**Header**/
+#header-nav {
+  background-color: #ff7f50;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand {
+  padding-top: 20px;
+}
+
+.navbar-brand h1 { /*title*/
+  color: #fff;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#menu-button {
+  background-color: yellow;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000000;
+}
+
+li {
+  border: 1 px solid #ffffff;
+}
+.chicken-tile {
+  height: 1000px;
+  width: 100%;
+  border: 2px solid #ffffff;
+  background-color: #8b0000;
+}
+#main-header {
+  margin-bottom: 15px;
+}
+#main-header, #section-header {
+  color: #ffffff;
+}
+
+#section-content {
+  padding: 0 10px 0 10px;
+}
